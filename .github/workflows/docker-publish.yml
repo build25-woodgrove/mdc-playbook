@@ -5,7 +5,7 @@ on:
 
 env:
   IMAGE_NAME: mdc-mock-0001
-  IMAGE_TAG: ghasfinancial
+  IMAGE_TAG: mdc-ghas-integration
 
 jobs:
   build-and-push:
