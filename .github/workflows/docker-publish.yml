@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: mdc-mock-0001
+  IMAGE_NAME: mdc-ghas-mock-0001
   IMAGE_TAG: mdc-ghas-integration
 
 jobs:
